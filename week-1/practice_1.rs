@@ -1,4 +1,4 @@
 fn main(){
-	printin!("Welcome to CSC 101");
+	println!("Welcome to CSC 101");
 }
 
